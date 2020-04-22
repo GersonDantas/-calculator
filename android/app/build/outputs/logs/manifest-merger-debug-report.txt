@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:1-27:12
 MERGED from [com.facebook.react:react-native:0.61.5] /home/gerson/.gradle/caches/transforms-2/files-2.1/cdc8b1ee3728855189d6294d39553813/AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r245459] /home/gerson/.gradle/caches/transforms-2/files-2.1/52e8861a70230105d13b751962242940/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/gerson/.gradle/caches/transforms-2/files-2.1/0bb2d813d94219524dd6188db7a19465/AndroidManifest.xml:17:1-22:12
@@ -52,13 +52,13 @@ INJECTED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/andr
 		INJECTED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/debug/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:1-27:12
 		INJECTED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:1-27:12
 		INJECTED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:1:11-69
@@ -67,9 +67,9 @@ ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android
 	android:name
 		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:6:5-24:19
+ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:6:5-25:19
 MERGED from [com.facebook.react:react-native:0.61.5] /home/gerson/.gradle/caches/transforms-2/files-2.1/cdc8b1ee3728855189d6294d39553813/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.61.5] /home/gerson/.gradle/caches/transforms-2/files-2.1/cdc8b1ee3728855189d6294d39553813/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/gerson/.gradle/caches/transforms-2/files-2.1/b903969c48d9a38edeb721a462bdeddf/AndroidManifest.xml:11:5-20
@@ -105,7 +105,9 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/gerso
 		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:7:7-38
 		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:7:7-38
 activity#com.calculator.MainActivity
-ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:screenOrientation
+		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:18:9-45
 	android:label
 		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
@@ -115,19 +117,19 @@ ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android
 	android:name
 		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:19:9-22:25
 action#android.intent.action.MAIN
-ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:20:13-65
 	android:name
-		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:20:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:21:13-73
 	android:name
-		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:21:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:24:7-84
 	android:name
-		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml:24:17-81
 uses-sdk
 INJECTED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/src/main/AndroidManifest.xml

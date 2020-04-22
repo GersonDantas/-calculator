@@ -1,4 +1,4 @@
-#Wed Apr 22 15:31:47 BRT 2020
+#Wed Apr 22 20:40:42 BRT 2020
 base.0=/home/gerson/Área de Trabalho/curso-react-nactive/calculator/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 path.0=classes.dex
